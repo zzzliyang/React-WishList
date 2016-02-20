@@ -1,0 +1,6 @@
+[
+  {"id": 1, "wish": "Get an iPhone 7.", "author": "Liyang", "category": "Gift", "archived": false},
+  {"id": 2, "wish": "Get a Fendi bag.", "author": "Yuzu", "category": "Gift", "archived": false},
+  {"id": 3, "wish": "Go to Japan.", "author": "Liyan", "category": "Travel", "archived": false},
+  {"id": 4, "wish": "Get more Bonus.", "author": "Yuzu", "category": "Work", "archived": true}
+]
